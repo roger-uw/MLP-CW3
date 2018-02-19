@@ -11,3 +11,17 @@ Keyboard Typing (CNN, 4096 channels)
 
 <audio src = "assets/keyboard_CNN4096.wav" controls preload></audio>
 
+
+
+Baby Cry (Sample)
+
+<audio src = "assets/babycry_Sample.wav" controls preload></audio>
+
+Baby Cry (WTL)
+
+<audio src = "assets/babycry_WTL.wav" controls preload></audio>
+
+Baby Cry (CNN, 4096 channels)
+
+<audio src = "assets/babycry_CNN4096.wav" controls preload></audio>
+
